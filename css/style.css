@@ -272,7 +272,7 @@ a:active {
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 0;
-    background: rgba(54, 160, 245, 0.73);
+    background: rgba(42, 77, 79, 0.5);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption-port:hover {
@@ -531,7 +531,7 @@ a:active {
 }
 
 #award-box .award:hover .award-icon:before {
-    background: #39b3ff;
+    background: #557172;
 }
 
 #award-box .award-content {
@@ -564,8 +564,8 @@ a:active {
 }
 
 #award-box .award:hover .award-content:before {
-    background: #39b3ff;
-    border-color: #39b3ff;
+    background: #557172;
+    border-color: #557172;
 }
 
 #award-box .award-content:after {
@@ -582,7 +582,7 @@ a:active {
     display: block;
     font-size: 15px;
     font-weight: 600;
-    color: #39b3ff;
+    color: #557172;
     margin: 0 0 8px;
     transition: all 0.3s ease 0s;
 }
@@ -599,7 +599,7 @@ a:active {
 }
 
 #award-box .award:hover .title {
-    color: #39b3ff;
+    color: #557172;
 }
 
 #award-box .description {
